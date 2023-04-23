@@ -1,4 +1,4 @@
-# Stress Prediction Among Nurses Using Vital Signs: Insights and Challenges from a Random Forest Model 👩‍⚕️
+# Stress Prediction Among Nurses: Insights and Challenges from a Random Forest Model 👩‍⚕️
 
 Code and report of assignment no.2 of module CE888 of Data Science & Decision Making. In it you can find:
 
