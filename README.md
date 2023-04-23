@@ -1,6 +1,6 @@
 # Stress Prediction Among Nurses Using Vital Signs: Insights and Challenges from a Random Forest Model 👩‍⚕️
 
-Code and report of assignment no.2 of module CE888 for the Msc in Social Data Science at the University of Essex. In it you can find:
+Code and report of assignment no.2 of module CE888 of Data Science & Decision Making. In it you can find:
 
 1. **code.ipynb:** File with the predictive model
 2. **data_model.csv:** data transformed and used to make the predictive model
